@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Flying drone using gestures 
+- 🔭 I’m currently working on Astrology website
 - 🌱 I’m currently learning Ai and deep learning 
 - 👯 I’m looking to collaborate on anything 
 - 🤔 I’m looking for help with fininf internship 
